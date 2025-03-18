@@ -46,14 +46,10 @@ pip install numpy pandas scikit-learn matplotlib
 - **Scatter plot of clustered data** (first two features used for visualization).
 - **Centroids of clusters** plotted in red.
 
-## Example Visualization
-The output scatter plot represents clusters based on `sepal_length` and `sepal_width`:
-
-![K-Means Clustering Visualization](example_plot.png)
 
 ## License
 This project is licensed under the MIT License.
 
 ## Author
-Lukka Harshitha - [Your GitHub Profile("https://github.com/Harshitha14-05")]
+Lukka Harshitha - [ GitHub Profile("https://github.com/Harshitha14-05")]
 
